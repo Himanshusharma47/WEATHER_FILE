@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": 75.9172,
+        "lat": 31.5322
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 31.72,
+        "feels_like": 37.62,
+        "temp_min": 31.72,
+        "temp_max": 31.72,
+        "pressure": 998,
+        "humidity": 64,
+        "sea_level": 998,
+        "grnd_level": 964
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.53,
+        "deg": 107,
+        "gust": 2.57
+    },
+    "rain": {
+        "1h": 0.43
+    },
+    "clouds": {
+        "all": 19
+    },
+    "dt": 1692714074,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1692663942,
+        "sunset": 1692711207
+    },
+    "timezone": 19800,
+    "id": 1269937,
+    "name": "Hoshi\u0101rpur",
+    "cod": 200
+}

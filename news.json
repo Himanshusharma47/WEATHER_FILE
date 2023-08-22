@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Israeli woman shot dead in attack on car in southern West Bank",
+            "description": "A man was also injured when their car was targeted by gunfire on a highway south of Hebron.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/world-middle-east-66570478",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/ECB3\/production\/_130859506_mediaitem130859500.jpg",
+            "publishedAt": "2023-08-21T13:37:19.8471634Z",
+            "content": "An Israeli woman has been killed and a man seriously wounded when their car was shot at south of Hebron in the occupied West Bank, officials say.\r\nTwo dozen bullets were reportedly fired from a passi\u2026 [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China cuts key interest rate as recovery falters",
+            "description": "The world's second largest economy struggles to recover from Covid and faces a property crisis.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/business-66567085",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/0799\/production\/_130854910_gettyimages-1601922113.jpg",
+            "publishedAt": "2023-08-21T12:22:20.1278983Z",
+            "content": "China's central bank has cut one of its key interest rates for the second time in three months as the world's second-largest economy struggles to bounce back from the pandemic.\r\nThe People's Bank of \u2026 [+2548 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Spanish FA president criticised for Hermoso kiss",
+            "description": "Luis Rubiales is criticised by a Spanish government minister for kissing forward Jenni Hermoso on the lips after Spain's Women's World Cup victory.",
+            "url": "http:\/\/www.bbc.co.uk\/sport\/football\/66568226",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/live-experience\/cps\/624\/cpsprodpb\/15F09\/production\/_130856898_microsoftteams-image.png",
+            "publishedAt": "2023-08-21T12:07:21.7677142Z",
+            "content": "Spanish football federation president Luis Rubiales has been criticised for kissing Jenni Hermoso on the lips after Spain won the Women's World Cup.\r\nRubiales kissed Hermoso during the presentation c\u2026 [+1751 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Earthquake shakes parts of California during storm",
+            "description": "As residents sheltered from a once-in-80 years storm, the floor shook from an earthquake.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-66568991",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/16689\/production\/_130858719_quake_plain-nc.png",
+            "publishedAt": "2023-08-21T11:22:17.0344569Z",
+            "content": "As people across Southern California sheltered from Hurricane Hilary; another natural disaster hit - a magnitude 5.1 earthquake.\r\nIts epicentre was northwest of Los Angeles and #hurriquake was soon t\u2026 [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Drone footage shows town incinerated by wildfires",
+            "description": "Enterprise in Canada's Northwest Territories is burnt to the ground as wildfires continue to grip the country.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/world-us-canada-66568903",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/13B19\/production\/_130856608_p0g7x0hd.jpg",
+            "publishedAt": "2023-08-21T08:37:16.2379163Z",
+            "content": "Shocking aerial footage shows the scale of destruction in the town of Enterprise, in Canada's Northwest Territories.\r\nThe small community, which is home to 120 people, was burned to the ground by wil\u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Lucy Letby to be sentenced for murders but may not appear in court",
+            "description": "The UK's most prolific child serial killer in modern times killed seven babies at a hospital in Chester.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/live\/uk-66551231",
+            "urlToImage": "https:\/\/m.files.bbci.co.uk\/modules\/bbc-morph-news-waf-page-meta\/5.3.0\/bbc_news_logo.png",
+            "publishedAt": "2023-08-21T08:22:20.8782508Z",
+            "content": "Video content\r\nVideo caption: Lucy Letby: Watch moment police arrest nurseLucy Letby: Watch moment police arrest nurse\r\nThe investigation to catch Lucy Letby lasted six years - which culminated on Fr\u2026 [+1105 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pioneering wind-powered cargo ship sets sail",
+            "description": "Inventors hope maiden voyage will help usher in new era of greener shipping.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/technology-66543643",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/1198\/production\/_130840540_heroimage_pyxis_ocean_aug.2023.jpg",
+            "publishedAt": "2023-08-21T08:22:18.3007671Z",
+            "content": "A cargo ship fitted with giant, British-designed special wind-powered sails has set out on its maiden voyage.\r\nShipping firm Cargill, which has chartered the vessel, hopes the technology will help th\u2026 [+4923 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hundreds of migrants killed by Saudi border guards - report",
+            "description": "Migrants tell the BBC they were shot on the Saudi border as a new report alleges \"mass killings\".",
+            "url": "http:\/\/www.bbc.co.uk\/news\/world-middle-east-66545787",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/10707\/production\/_130853376_111injuredmanfinal.jpg",
+            "publishedAt": "2023-08-21T04:22:17.3741744Z",
+            "content": "Saudi border guards are accused of the mass killing of migrants along the Yemeni border in a new report by Human Rights Watch.\r\nThe report says hundreds of people, many of them Ethiopians who cross w\u2026 [+6486 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "California braces for imminent storm Hilary arrival",
+            "description": "Storm Hilary makes landfall in Mexico's Baja California state, heading for the south-western US.",
+            "url": "http:\/\/www.bbc.co.uk\/news\/live\/world-us-canada-66566483",
+            "urlToImage": "https:\/\/m.files.bbci.co.uk\/modules\/bbc-morph-news-waf-page-meta\/5.3.0\/bbc_news_logo.png",
+            "publishedAt": "2023-08-21T00:37:20.0920781Z",
+            "content": "The US state of\r\nCalifornia is bracing itself for tropical storm Hilary - which is expected to\r\narrive within hours.\r\nIt would be the state's\r\nfirst tropical storm in 84 years.\r\nAnd it's already been\u2026 [+140 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Spain's Carmona told after final her father has died",
+            "description": "Olga Carmona, who scored Spain's winner in the World Cup final, finds out after the game that her father has died.",
+            "url": "http:\/\/www.bbc.co.uk\/sport\/football\/66566564",
+            "urlToImage": "https:\/\/ichef.bbci.co.uk\/live-experience\/cps\/624\/cpsprodpb\/13E89\/production\/_130854518_gettyimages-1611738632.jpg",
+            "publishedAt": "2023-08-20T21:37:21.9991407Z",
+            "content": "Olga Carmona, who scored Spain's winner in the Women's World Cup final, was told after the game that her father had died.\r\n\"The RFEF deeply regrets to announce the death of Olga Carmona's father. The\u2026 [+619 chars]"
+        }
+    ]
+}
